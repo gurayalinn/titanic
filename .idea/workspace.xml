@@ -4,60 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12298252-619c-4f90-8a25-cd56631d1f80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/titanic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/titanic-stanford.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/titanic_gender_submission.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/titanic_test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/titanic_train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output-confusion-matrix-k-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output-confusion-matrix-k-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output-confusion-matrix-k-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-accuracy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-11-test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-13-test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-15-test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-3-test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-5-test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-7-test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-9-test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-confusion-matrix-k-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-error-rate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-feature-importances.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-precision-recall-f1-score.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/output-random.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/random-forest-test-train-output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/tahmin-output-11.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/tahmin-output-13.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/tahmin-output-15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/tahmin-output-3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/tahmin-output-5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/tahmin-output-7.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/tahmin-output-9.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/tahmin-output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/tahmin-test-train-output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/test-train-output-accuracy-k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/test-train-output-confusion-matrix-k-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/test-train-output-confusion-matrix-k-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/test-train-output-confusion-matrix-k-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/test-train-output-error-rate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/test-train-output-precision-recall-f1-score-k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-train-titanic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/titanic.py" afterDir="false" />
-    </list>
+    <list default="true" id="12298252-619c-4f90-8a25-cd56631d1f80" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
